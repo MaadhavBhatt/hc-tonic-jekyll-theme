@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: barefoot-light
+description: "A simple and elegant theme with no fancy CSS. It looks like HTML with no styling, except much more elegant."
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
