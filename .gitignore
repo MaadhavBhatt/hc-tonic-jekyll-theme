@@ -4,3 +4,9 @@
 .sass-cache
 _site
 Gemfile.lock
+
+# Ignore gem packages
+vendor/
+
+# Ignore Wakatime API keys, urls, etc.
+.wakatime.cfg
